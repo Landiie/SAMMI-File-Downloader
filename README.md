@@ -1,2 +1,2 @@
 # SAMMI-File-Downloader
-An easy File Downloader command for SAMMI.
+An easy File Download command for SAMMI.
