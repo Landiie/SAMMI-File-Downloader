@@ -3,7 +3,7 @@ An easy File Download command for SAMMI.
 
 ## ⁉ What can it do?
 
-This extension features one command, and that is `Folder Reader: Read`! The usage is incredibly simple, and so is installation!
+This extension allows you to download whatever files you want from the internet! one command! wowzers!
 
 ### Example Usage 📝
 #### Input:
